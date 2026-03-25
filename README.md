@@ -1,7 +1,7 @@
 High-fidelity, animated 3D "Hero" assets for use in emulation front-ends (ES-DE, Cocoon, etc.). Rendered in Blender at 720p and 1080p.
 Made more specifically for dual screen handhelds such as the AYN Thor but might also be of use in other customizeable frontends like Pegasus.
 
-![Favorites Hero](https://github.com/TheDudeRenders/Frontend-Renders/tree/main/Dark%20Theme/1080p/FAVORITES_1080p.webp)
+![Favorites Hero](https://github.com/TheDudeRenders/Frontend-Renders/blob/main/Dark%20Theme/1080p/FAVORITES_dark_1080p.webp)
 
 ## Credits & Attributions
 This project utilizes free and paid high-quality 3D models from the community. A full list of creators and licensing details, can be found here:
