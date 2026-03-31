@@ -68,6 +68,9 @@ PSX:
 Model by Smoggybeard on Sketchfab (CC BY-NC-SA 4.0). Modified from original.
 Other models from cgtrader.com
 
+SEGA CDX:
+Model from cgtrader.com
+
 Sega Dreamcast:
 Models from blenderkit
 
@@ -100,3 +103,7 @@ Models from cgtrader.com
 
 WII U:
 Models from 3dmodels.org
+
+XBOX 360:
+Console model by robbryantjr on Sketchfab (CC BY 4.0). Modified from original.
+Controller model by Carlos Nava on Sketchfab (CC BY-SA 4.0). Modified from original.
