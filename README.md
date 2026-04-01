@@ -6,7 +6,8 @@ Made more specifically for dual screen handhelds such as the AYN Thor but might 
 ![Favorites Hero](https://github.com/TheDudeRenders/Frontend-Renders/blob/main/Dark%20Theme/1080p/FAVORITES_dark_1080p.webp)
 
 ### Light Theme preview:
-![Favorites Hero](https://github.com/TheDudeRenders/Frontend-Renders/blob/main/light%20Theme/1080p/FAVORITES_light_1080p.webp)
+![Favorites Hero](https://github.com/TheDudeRenders/Frontend-Renders/blob/main/Light%20Theme/1080p/FAVORITES_light_1080p.webp)
+
 
 ## Credits & Attributions
 This project utilizes free and paid high-quality 3D models from the community. A full list of creators and licensing details, can be found here:
